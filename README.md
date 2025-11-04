@@ -13,8 +13,7 @@ I love building intelligent systems and working with data to create real-world i
 - 👯 Looking to collaborate on: **Open-source ML and AI projects**
 - 💬 Ask me about: **Python, Flask, Django, ML, Data Visualization**
 - ⚙️ OS Experience: **Linux (via WSL)**  
-- 📫 Reach me at: *your.email@example.com*  
-- 🌐 Portfolio/LinkedIn: [Add your link here]
+- 📫 Reach me at: bhanupandey1248@gmail.com  
 
 ---
 
@@ -31,16 +30,6 @@ I love building intelligent systems and working with data to create real-world i
 
 **Databases:**  
 `MySQL` • `PostgreSQL`
-
----
-
-### 💡 Featured Projects
-
-🔹 **[Fitness Tracker (ML)](link-to-repo)** — Predicts and tracks fitness metrics using machine learning  
-🔹 **[Text Adventure Engine](link-to-repo)** — A Python-based game engine that generates interactive text adventures  
-🔹 **[MLDev AI](link-to-repo)** — Upload a dataset and get a ready-to-run ML project folder with selected models, code, and structure  
-
-> 🧩 Each project showcases a different aspect of my skills — from data preprocessing to deployment.
 
 ---
 
