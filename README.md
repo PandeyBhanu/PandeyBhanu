@@ -42,6 +42,7 @@ Currently exploring ways to build AI systems that are more reliable, observable,
 <a href="https://github.com/PandeyBhanu/AgentLoop">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PandeyBhanu&repo=AgentLoop&theme=tokyonight&hide_border=true" alt="AgentLoop Repository Card" />
 </a>
+
 <a href="https://github.com/PandeyBhanu/slicedllm">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PandeyBhanu&repo=slicedllm&theme=tokyonight&hide_border=true" alt="SlicedLLM Repository Card" />
 </a>
