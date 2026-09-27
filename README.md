@@ -1,48 +1,105 @@
-# 👋 Hi, I'm Bhanu Pandey  
+<div align="center">
 
-🎓 **Student | Aspiring Data / ML Engineer | AI Enthusiast**
+# Bhanu Pandey
 
----
+### AI Engineer · Backend Systems · Agentic AI
 
-### 🚀 About Me
-I'm a passionate learner exploring the intersection of **Machine Learning**, **Data Science**, and **Software Engineering**.  
-I love building intelligent systems and working with data to create real-world impact.  
+*Building AI systems, figuring out why they fail, and making them more reliable.*
 
-- 🔭 Currently working on: **ML-based automation tools & model deployment**
-- 🌱 Currently learning: **Deep Learning**, **MLOps**, and **Cloud-based ML pipelines**
-- 👯 Looking to collaborate on: **Open-source ML and AI projects**
-- 💬 Ask me about: **Python, Flask, Django, ML, Data Visualization**
-- ⚙️ OS Experience: **Linux (via WSL)**  
-- 📫 Reach me at: bhanupandey1248@gmail.com  
+[![GitHub](https://img.shields.io/badge/GitHub-PandeyBhanu-181717?style=flat&logo=github)](https://github.com/PandeyBhanu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhanu-pandey-684423164/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bhanupandey1248@gmail.com)
+
+</div>
 
 ---
 
-### 🧠 Tech Stack
+## About Me
 
-**Languages:**  
-`Python` • `Java` • `C++` • `SQL`
+I'm an AI Engineer interested in what happens beyond a successful LLM response.
 
-**Machine Learning & AI:**  
-`scikit-learn` • `TensorFlow` • `pandas` • `numpy` • `matplotlib` • `seaborn`
+From agent execution and retrieval pipelines to debugging and evaluation, I enjoy understanding how AI systems behave under the hood.
 
-**Frameworks & Tools:**  
-`Flask` • `Django` • `Linux (WSL)` • `Git` • `VS Code`
+I completed my MCA from **SGSITS, Indore**, in 2026 and worked as an Associate AI Engineer at **Media2AI (OperonAI)**, contributing to production AI products involving agent workflows, RAG, and backend infrastructure.
 
-**Databases:**  
-`MySQL` • `PostgreSQL`
+Currently exploring ways to build AI systems that are more reliable, observable, and easier to evaluate.
+
+*A little like Dr. Stone: understand the fundamentals, then build the thing.*
 
 ---
 
-### 📊 GitHub Stats
-![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+## Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+### [AgentLoop](https://github.com/PandeyBhanu/AgentLoop)
+**A ReAct Agent Framework**
+
+A from-scratch agent framework exploring tool execution, validation, and control over agent behavior.
+
+`Python` · `FastAPI` · `LLMs` · `Docker`
+
+### [SlicedLLM](https://github.com/PandeyBhanu/slicedllm)
+**An LLM Evaluation Platform**
+
+A platform for versioning prompts, comparing model outputs, and evaluating changes through controlled experiments.
+
+`Python` · `LLMs` · `Next.js`
 
 ---
 
-### 🌟 Fun Fact
-I believe every dataset has a story — you just need the right model to tell it. 📈  
+## Experience
+
+**Associate AI Engineer — Media2AI (OperonAI)**  
+*January 2026 – September 2026*
+
+Contributed to production AI products involving agent workflows, retrieval-augmented generation, multi-tenant infrastructure, and AI-powered support automation.
+
+**Python / ML Intern — FirstDrawn Research**  
+*September 2023 – October 2023*
+
+Built and deployed an NLP-based intent-classification REST API using Python and Flask.
 
 ---
 
-⭐️ *“Turning data into insights and ideas into impact.”*  
+## Tech Stack
+
+**Languages:** Python · Java · C++ · SQL · TypeScript
+
+**AI/ML:** Machine Learning · NLP · Generative AI · RAG · Agentic AI · scikit-learn
+
+**Backend:** FastAPI · Flask · PostgreSQL · Kafka · Redis · Celery
+
+**Infrastructure:** Docker · pgvector · Pinecone · Neo4j
+
+**Frontend:** React · Next.js
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PandeyBhanu&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandeyBhanu&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+
+</div>
+
+---
+
+## Beyond the Terminal
+
+Usually watching anime, getting lost in a good sci-fi story, or thinking about the next thing to build.
+
+**Dr. Stone** for the science. **Sherlock** for the debugging. **Iron Man** for the AI assistants.
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[**Resume**](https://drive.google.com/file/d/1BctCKmeWqgPXDwORHcBq5czDxVW6jpYr/view?usp=drive_link) ·
+[**LinkedIn**](https://www.linkedin.com/in/bhanu-pandey-684423164/) ·
+[**Email**](mailto:bhanupandey1248@gmail.com)
+
+</div>
