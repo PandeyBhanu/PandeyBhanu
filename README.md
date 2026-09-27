@@ -4,16 +4,7 @@
 
 ### AI Engineer · Backend Systems · Agentic AI
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Building+Agentic+AI+Systems;Exploring+LLM+Evaluation;Debugging+Things+That+Should+Work" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-PandeyBhanu-181717?style=flat&logo=github)](https://github.com/PandeyBhanu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhanu-pandey-684423164/)
-[![Resume](https://img.shields.io/badge/Resume-View-58A6FF?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1BctCKmeWqgPXDwORHcBq5czDxVW6jpYr/view?usp=drive_link)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bhanupandey1248@gmail.com)
+[GitHub](https://github.com/PandeyBhanu) · [LinkedIn](https://www.linkedin.com/in/bhanu-pandey-684423164/) · [Resume](https://drive.google.com/file/d/1BctCKmeWqgPXDwORHcBq5czDxVW6jpYr/view?usp=drive_link) · [Email](mailto:bhanupandey1248@gmail.com)
 
 </div>
 
@@ -27,7 +18,7 @@ How does an agent decide which tool to call? What happens when a workflow gets s
 
 These are the kinds of questions I explore through my work and independent projects.
 
-I completed my **MCA from SGSITS, Indore, in 2026** and worked as an Associate AI Engineer at **Media2AI (OperonAI)**, contributing to production AI products involving agent workflows, RAG, and backend infrastructure.
+I completed my MCA from SGSITS, Indore, in 2026 and worked as an Associate AI Engineer at Media2AI (OperonAI), contributing to production AI products involving agent workflows, RAG, and backend infrastructure.
 
 Currently exploring ways to build AI systems that are more reliable, observable, and easier to evaluate.
 
@@ -37,102 +28,121 @@ Currently exploring ways to build AI systems that are more reliable, observable,
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/PandeyBhanu/AgentLoop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PandeyBhanu&repo=AgentLoop&theme=tokyonight&hide_border=true" alt="AgentLoop Repository Card" />
-</a>
-
-<a href="https://github.com/PandeyBhanu/slicedllm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PandeyBhanu&repo=slicedllm&theme=tokyonight&hide_border=true" alt="SlicedLLM Repository Card" />
-</a>
-
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [AgentLoop](https://github.com/PandeyBhanu/AgentLoop)
+
 **A ReAct Agent Framework**
 
 What happens when you build an AI agent without relying on an agent framework?
 
 A from-scratch agent framework exploring tool execution, validation, and control over agent behavior.
 
-`Python` · `FastAPI` · `LLMs` · `Docker`
+**Tech Stack**
 
----
+Python · FastAPI · LLMs · Docker
+
+</td>
+<td width="50%" valign="top">
 
 ### [SlicedLLM](https://github.com/PandeyBhanu/slicedllm)
+
 **An LLM Evaluation Platform**
 
 How do you know whether a change to an AI system actually made it better?
 
 A platform for versioning prompts, comparing model outputs, and evaluating changes through controlled experiments.
 
-`Python` · `LLMs` · `Next.js`
+**Tech Stack**
 
----
+Python · LLMs · Next.js
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
 
 ### [LLM Council](https://github.com/PandeyBhanu/LLM_council)
+
 **Multi-LLM Discussion & Synthesis**
 
 An adaptation of Andrej Karpathy's LLM Council, where multiple LLMs contribute perspectives and a manager LLM synthesizes their responses into a final conclusion.
 
 I improved the user interface and extended the implementation with additional LLM calls.
 
-`Python` · `LLM APIs` · `Multi-LLM Systems`
+**Tech Stack**
+
+Python · LLM APIs · Multi-LLM Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-**Associate AI Engineer — Media2AI (OperonAI)**  
-*January 2026 – September 2026*
+### Associate AI Engineer — Media2AI (OperonAI)
 
-Contributed to production AI products involving agent workflows, retrieval-augmented generation, multi-tenant infrastructure, and AI-powered support automation.
+**January 2026 – September 2026**
 
-**Python / ML Intern — FirstDrawn Research**  
-*September 2023 – October 2023*
+Contributed to production AI products involving:
 
-Built and deployed an NLP-based intent-classification REST API using Python and Flask.
+- Agent workflows and stateful execution.
+- Retrieval-Augmented Generation (RAG) and knowledge retrieval.
+- Multi-tenant infrastructure and Identity & Access Management (IAM).
+- AI-powered customer support automation.
+- Backend services and integrations.
+
+### Python / ML Intern — FirstDrawn Research
+
+**September 2023 – October 2023**
+
+- Built and deployed an NLP-based intent-classification REST API using Python and Flask.
+- Trained and evaluated text-classification models.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+### Programming Languages
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" alt="Programming Languages" />
+Python · Java · C++ · JavaScript · TypeScript
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,redis,kafka,mongodb" alt="Backend Technologies" />
+FastAPI · Flask · PostgreSQL · MongoDB · Redis · Kafka
 
 ### Frontend & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,docker,git,github" alt="Frontend and Infrastructure Technologies" />
+React · Next.js · Docker · Git · GitHub
 
-</div>
+### AI & Machine Learning
 
-**AI/ML:** Machine Learning · NLP · Generative AI · RAG · Agentic AI · scikit-learn
+Machine Learning · NLP · Generative AI · RAG · Agentic AI · scikit-learn
 
-**Retrieval & Data:** pgvector · Pinecone · Neo4j · PostgreSQL · Kafka
+### Retrieval & Data
 
-**LLM Providers:** OpenAI · Anthropic · Groq · Google Gemini
+pgvector · Pinecone · Neo4j · PostgreSQL · Kafka
+
+### LLM Providers
+
+OpenAI · Anthropic · Groq · Google Gemini
 
 ---
 
 ## GitHub Activity
 
+Explore my repositories, projects, and contribution history:
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PandeyBhanu&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/PandeyBhanu)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandeyBhanu&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PandeyBhanu&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
+[View My Repositories](https://github.com/PandeyBhanu?tab=repositories) · [View Contributions](https://github.com/PandeyBhanu?tab=overview)
 
 </div>
 
@@ -144,10 +154,10 @@ Not everything needs to be about code.
 
 | Inspiration | What it reminds me of |
 |---|---|
-| **Dr. Stone** | Understand the fundamentals. Build from scratch. |
-| **Steins;Gate** | Experiment, observe, and understand what changes. |
-| **Sherlock** | Follow the evidence instead of guessing. |
-| **Iron Man** | Build technology that works alongside people. |
+| Dr. Stone | Understand the fundamentals. Build from scratch. |
+| Steins;Gate | Experiment, observe, and understand what changes. |
+| Sherlock | Follow the evidence instead of guessing. |
+| Iron Man | Build technology that works alongside people. |
 
 Usually watching anime, getting lost in a good sci-fi story, or thinking about the next thing to build.
 
@@ -161,18 +171,12 @@ Usually watching anime, getting lost in a good sci-fi story, or thinking about t
 
 ---
 
-<div align="center">
-
-### Let's Connect
+## Let's Connect
 
 Interested in AI Engineering, Agentic AI, and building systems that work beyond the demo.
 
-[**Resume**](https://drive.google.com/file/d/1BctCKmeWqgPXDwORHcBq5czDxVW6jpYr/view?usp=drive_link) ·
-[**LinkedIn**](https://www.linkedin.com/in/bhanu-pandey-684423164/) ·
-[**Email**](mailto:bhanupandey1248@gmail.com)
+<div align="center">
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=PandeyBhanu&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+[Resume](https://drive.google.com/file/d/1BctCKmeWqgPXDwORHcBq5czDxVW6jpYr/view?usp=drive_link) · [LinkedIn](https://www.linkedin.com/in/bhanu-pandey-684423164/) · [Email](mailto:bhanupandey1248@gmail.com)
 
 </div>
